@@ -32,6 +32,7 @@
     "addon.block_timeline.next3months": "未来3个月",
     "addon.block_timeline.next6months": "未来6个月",
     "addon.block_timeline.next7days": "未来7天",
+    "addon.block_timeline.noevents": "没有未按时或需按时完成的活动",
     "addon.block_timeline.overdue": "过期的",
     "addon.block_timeline.pluginname": "时间轴",
     "addon.block_timeline.sortbycourses": "按课程名称排序",
